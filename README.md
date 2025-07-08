@@ -12,3 +12,12 @@ Within this vibrant ecosystem, user interaction plays a pivotal role.
 
 ### Conclusion:
 This project entails utilizing the YouTube API through Python for data extraction related to the "avatar movie." It involves setting up the API key, extracting video details, and obtaining statistics for the top 50 videos in the US. Analysis includes sorting videos by top comments, retrieving comments, exporting data in JSON format, and calculating the likes vs views ratio for top videos with the most comments. Therefore, this project delves into the realm of programmatic data extraction from YouTube, enabling in-depth analysis of various video attributes. By leveraging this approach, insights can be gleaned to unravel trends, preferences, and audience engagement metrics, shedding light on the multifaceted nature of digital content consumption.
+
+## ✍️ Author
+
+**Pooja Pandit**  
+Master’s Student in Information Science (Machine Learning)  
+The University of Arizona  
+
+[![GitHub](https://img.shields.io/badge/GitHub-panditpooja-black?logo=github)](https://github.com/panditpooja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pooja--pandit-blue?logo=linkedin)](https://www.linkedin.com/in/pooja-pandit-177978135/)
