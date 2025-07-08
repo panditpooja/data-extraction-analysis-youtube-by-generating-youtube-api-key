@@ -1,7 +1,8 @@
 # Data extraction and analysis from YouTube
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![CSV](https://img.shields.io/badge/CSV-Supported-yellowgreen?logo=read-the-docs)](https://datatracker.ietf.org/doc/html/rfc4180)
-[![JSON](https://img.shields.io/badge/JSON-Supported-lightgrey?logo=json)](https://www.json.org/json-en.html)
+[![Jupyter Notebook](https://img.shields.io/badge/Tool-Jupyter%20Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![CSV](https://img.shields.io/badge/Data-CSV-brightgreen?logo=read-the-docs)](https://datatracker.ietf.org/doc/html/rfc4180)
+[![JSON](https://img.shields.io/badge/Data-JSON-lightgrey?logo=json)](https://www.json.org/json-en.html)
 
 The data collection is performed by generating and using the YouTube API key.
 
@@ -26,11 +27,11 @@ Within this vibrant ecosystem, user interaction plays a pivotal role.
 
 ```
 📂 data-extraction-analysis-youtube
-├── README.md                               # Project overview and documentation
+├── README.md                                # Project overview and documentation
 ├── YoutubeAPIGeneration_DataAnalysisExtraction.ipynb  # Main Jupyter Notebook
-├── pooja_avatar_movie.csv                  # CSV file with extracted video data
-├── pooja_avatar_movie_comments.json        # JSON file with video comments
-├── requirements.txt                        # Project dependencies
+├── pooja_avatar_movie.csv                   # CSV file with cleaned YouTube video data after analysis
+├── pooja_avatar_movie_comments.json         # JSON file with raw data extracted from YouTube API
+├── requirements.txt                         # Project dependencies
 ```
 
 ---
