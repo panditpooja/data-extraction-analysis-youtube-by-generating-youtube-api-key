@@ -11,8 +11,6 @@ The landscape of digital content creation has evolved rapidly, with videos emerg
 
 Within this vibrant ecosystem, user interaction plays a pivotal role.
 
-
-
 ---
 
 ## ✨ Features
@@ -89,9 +87,9 @@ By leveraging programmatic data extraction, insights are uncovered to understand
 
 ## ✍️ Author
 
-**Pooja Pandit**
-Master’s Student in Information Science (Machine Learning)
-The University of Arizona
+**Pooja Pandit**  
+Master’s Student in Information Science (Machine Learning)  
+The University of Arizona  
 
 [![GitHub](https://img.shields.io/badge/GitHub-panditpooja-black?logo=github)](https://github.com/panditpooja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pooja--pandit-blue?logo=linkedin)](https://www.linkedin.com/in/pooja-pandit-177978135/)
