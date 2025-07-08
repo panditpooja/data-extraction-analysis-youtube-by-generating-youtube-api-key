@@ -40,7 +40,7 @@ Within this vibrant ecosystem, user interaction plays a pivotal role.
 
 ### Prerequisites
 - Python 3.8+
-- A YouTube API key (obtainable from [Google Developers Console](https://console.cloud.google.com/))
+- A YouTube API key (obtainable from [Google Developers Console](https://developers.google.com/youtube/v3/getting-started))
 - Git
 
 ### Install dependencies
